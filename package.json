@@ -1,0 +1,13 @@
+{
+  "name": "token-timelock_proxy",
+  "version": "1.0.0",
+  "main": "proxy.js",
+  "author": "Anton Pegov <ap@bankexfoundation.org>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node proxy.js"
+  },
+  "dependencies": {
+    "http-proxy": "^1.17.0"
+  }
+}
