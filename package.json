@@ -9,5 +9,8 @@
   },
   "dependencies": {
     "http-proxy": "^1.17.0"
+  },
+  "engines": {
+    "node": "9.5.0"
   }
 }
